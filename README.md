@@ -13,6 +13,7 @@ The CSS elements were reordered so that they are grouped by section and in the o
 ## URLs
 
 Deployed Application:
+https://shippo704.github.io/week1-challenge/challenge/Develop/
 
 Github Repository:
 https://github.com/Shippo704/week1-challenge
